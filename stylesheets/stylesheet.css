@@ -74,6 +74,12 @@ header h2 {
   margin: 0;
 }
 
+#downloads .icon {
+    text-decoration: none;
+    width: 50px;
+    height: 50%;
+}
+
 /* Main Content
 */
 
